@@ -70,6 +70,9 @@
   <img src="/screenshots/UniDueImgTopSp4.svg" width="900" alt="トップページ4" />
 </p>
 
+<br>
+<br>
+<br>
 
 ### 2.課題情報編集ページ
 <p align="center">
@@ -93,6 +96,10 @@
 <p align="center">
   <img src="/screenshots/UniDueImgEditSp1.svg" width="900" alt="課題情報編集ページ" />
 </p>
+
+<br>
+<br>
+<br>
 
 ### 3.404ページ
 
