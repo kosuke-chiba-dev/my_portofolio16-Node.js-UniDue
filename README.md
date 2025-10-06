@@ -72,6 +72,9 @@
 
 
 ### 2.課題情報編集ページ
+<p align="center">
+  <img src="/screenshots/UniDueImgTop1.svg" width="900" alt="トップページ1" />
+</p>
 
 <p align="center">
   <img src="/screenshots/UniDueImgEdit1.svg" width="900" alt="課題情報編集ページ" />
@@ -100,7 +103,7 @@
 <hr />
 
 <p align="center">
-  <img src="/screenshots/UniDueImg4041Sp1.svg" width="900" alt="404ページ" />
+  <img src="/screenshots/UniDueImg404Sp1.svg" width="900" alt="404ページ" />
 </p>
 
 ---
