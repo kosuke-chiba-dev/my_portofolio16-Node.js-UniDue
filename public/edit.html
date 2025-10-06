@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>UniDue</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/destyle.css@1.0.15/destyle.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" referrerpolicy="no-referrer"/>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <div class="container">
+    <form class="task_form">
+      <h1 class="title">課題情報の編集</h1>
+
+      <div class="form-row">
+        <span>課題ID</span>
+        <p class="task-edit_id"></p>
+      </div>
+
+      <div class="form-row">
+        <label for="name" class="input_label">課題名</label>
+        <input type="text" name="name" id="name" class="input_text task-edit_name"/>
+      </div>
+
+      <div class="form-row">
+        <label for="completed" class="input_label">完了/未完了</label>
+        <input type="checkbox" name="completed" class="input_checkbox task-edit_completed" id="completed"/>
+      </div>
+
+      <div class="form-row">
+        <label for="due" class="input_label">提出期限</label>
+        <input type="date" id="due" name="dueDate" class="input_date task-edit_due"/>
+      </div>
+
+      <button type="submit" class="submit task-edit_btn">編集</button>
+      <a href="./index.html" class="btn-link">課題一覧に戻る</a>
+      <p class="form-alert"></p>
+    </form>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="./editTask.js"></script>
+</body>
+</html>

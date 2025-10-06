@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>UniDue</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/destyle.css@1.0.15/destyle.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" referrerpolicy="no-referrer"/>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <form class="task_form">
+    <h1 class="title">UniDue</h1>
+    <div class="form-row">
+      <input type="text" name="name" class="input_text task_input" placeholder="例:生物学Bの課題"/>
+    </div>
+
+    <div class="form-row">
+      <input type="date" name="dueDate" class="input_date task_due" aria-label="提出期限(任意)"/>
+    </div>
+
+    <div class="form-row">
+      <button type="submit" class="submit task-create_btn">登録する</button>
+    </div>
+
+    <div class="form-alert"></div>
+  </form>
+
+  <section class="tasks_container">
+    <ul class="tasks"></ul>
+  </section>
+
+  <nav class="pagination" id="pagination" aria-label="Tasks pagination"></nav>
+
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

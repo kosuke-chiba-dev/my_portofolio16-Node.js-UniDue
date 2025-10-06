@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "sass:watch": "sass src/style.scss public/css/style.css --watch --style=expanded",
+    "sass:build": "sass src/style.scss public/css/style.css --style=compressed --no-source-map",
+    "dev": "concurrently \"npm:sass:watch\" \"nodemon app.js\"",
+    "build": "npm run sass:build",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "nodemon": "^3.1.10",
+    "sass": "^1.93.2"
+  }
+}
