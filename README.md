@@ -28,46 +28,46 @@
 
 ### 1. トップページ
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTop1.svg" width="900" alt="トップページ1" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTop1.svg" width="50%" alt="トップページ1" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTop2.svg" width="900" alt="トップページ2" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTop2.svg" width="50%" alt="トップページ2" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTop3.svg" width="900" alt="トップページ3" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTop3.svg" width="50%" alt="トップページ3" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTop4.svg" width="900" alt="トップページ4" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTop4.svg" width="50%" alt="トップページ4" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTop5.svg" width="900" alt="トップページ5" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTop5.svg" width="50%" alt="トップページ5" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTop6.svg" width="900" alt="トップページ6" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTop6.svg" width="50%" alt="トップページ6" />
 </p>
 
 <hr />
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTopSp1.svg" width="900" alt="トップページ1" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTopSp1.svg" width="50%" alt="トップページ1" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTopSp2.svg" width="900" alt="トップページ2" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTopSp2.svg" width="50%" alt="トップページ2" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTopSp3.svg" width="900" alt="トップページ3" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTopSp3.svg" width="50%" alt="トップページ3" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgTopSp4.svg" width="900" alt="トップページ4" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTopSp4.svg" width="50%" alt="トップページ4" />
 </p>
 
 <br>
@@ -75,26 +75,26 @@
 <br>
 
 ### 2.課題情報編集ページ
-<p align="center">
-  <img src="/screenshots/UniDueImgTop1.svg" width="900" alt="トップページ1" />
+<p align="left">
+  <img src="/screenshots/UniDueImgTop1.svg" width="50%" alt="トップページ1" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgEdit1.svg" width="900" alt="課題情報編集ページ" />
+<p align="left">
+  <img src="/screenshots/UniDueImgEdit1.svg" width="50%" alt="課題情報編集ページ" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgEdit2.svg" width="900" alt="課題情報編集ページ" />
+<p align="left">
+  <img src="/screenshots/UniDueImgEdit2.svg" width="50%" alt="課題情報編集ページ" />
 </p>
 
-<p align="center">
-  <img src="/screenshots/UniDueImgEdit3.svg" width="900" alt="課題情報編集ページ" />
+<p align="left">
+  <img src="/screenshots/UniDueImgEdit3.svg" width="50%" alt="課題情報編集ページ" />
 </p>
 
 
 <hr />
-<p align="center">
-  <img src="/screenshots/UniDueImgEditSp1.svg" width="900" alt="課題情報編集ページ" />
+<p align="left">
+  <img src="/screenshots/UniDueImgEditSp1.svg" width="50%" alt="課題情報編集ページ" />
 </p>
 
 <br>
