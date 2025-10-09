@@ -103,14 +103,14 @@
 
 ### 3.404ページ
 
-<p align="center">
-  <img src="/screenshots/UniDueImg4041.svg" width="900" alt="404ページ" />
+<p align="left">
+  <img src="/screenshots/UniDueImg4041.svg" width="50%" alt="404ページ" />
 </p>
 
 <hr />
 
-<p align="center">
-  <img src="/screenshots/UniDueImg404Sp1.svg" width="900" alt="404ページ" />
+<p align="left">
+  <img src="/screenshots/UniDueImg404Sp1.svg" width="50%" alt="404ページ" />
 </p>
 
 ---
